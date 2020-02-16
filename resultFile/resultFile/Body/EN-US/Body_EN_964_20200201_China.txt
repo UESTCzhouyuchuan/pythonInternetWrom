@@ -1,0 +1,101 @@
+Sign up for NYT Chinese-language Morning Briefing.
+
+As the coronavirus outbreak continues to spread across China, a flurry of early research is drawing a clearer picture of how the pathogen behaves and the key factors that will determine whether it can be contained.
+
+While the virus is a serious public health concern, the risk to most people outside China remains very low, and seasonal flu is a more immediate threat. To avoid any viral illness, experts advise washing your hands frequently and avoiding your office or school when you’re sick. Most healthy people don’t need masks, and hoarding them may contribute to shortages for health workers who do need them, experts say.
+
+1. How contagious is the virus?
+
+It seems moderately infectious, similar to SARS.
+
+The scale of an outbreak depends on how quickly and easily a virus is transmitted from person to person. While research has just begun, scientists have estimated that each person with the new coronavirus could infect somewhere between 1.5 and 3.5 people without effective containment measures.
+
+That would make the new virus roughly as contagious as SARS, another coronavirus that circulated in China in 2003 and was contained after it sickened 8,098 people and killed 774. Respiratory viruses like these can travel through the air, enveloped in tiny droplets that are produced when a sick person breathes, talks, coughs or sneezes.
+
+These droplets fall to the ground within a few feet. That makes the virus harder to get than pathogens like measles, chickenpox and tuberculosis, which can travel a hundred feet through the air. But it is easier to catch than H.I.V. or hepatitis, which spread only through direct contact with the bodily fluids of an infected person.
+
+If each person infected with the new coronavirus infects two to three others, that may be enough to sustain and accelerate an outbreak, if nothing is done to reduce it.
+
+Here’s how that works. In the animation below, a group of five infected people could spread the virus to about 368 people over just five cycles of infection.
+
+Compare that with a less contagious virus, like the seasonal flu. People with the flu tend to infect 1.3 other individuals, on average. The difference may seem small, but the result is a striking contrast: Only about 45 people might be infected in the same scenario.
+
+But the transmission numbers of any disease aren't set in stone. They can be reduced by effective public health measures, such as isolating sick people and tracking individuals they’ve had contact with. When global health authorities methodically tracked and isolated people infected with SARS in 2003, they were able to bring the average number each sick person infected down to 0.4, enough to stop the outbreak.
+
+Health authorities around the world are expending enormous effort trying to repeat that.
+
+So far, the number of cases outside China has been small. But in recent days, cases have turned up in several countries, including the United States, with people who have not visited China. And the number of cases within China has accelerated, far surpassing the rate of new SARS cases in 2003.
+
+2. How deadly is the virus?
+
+It’s hard to know yet. But the mortality rate is probably less than 3 percent, much less than SARS.
+
+This is one of the most important factors in how damaging the outbreak will be, and one of the least understood.
+
+It’s tough to assess the lethality of a new virus. The worst cases are usually detected first, which can skew our understanding of how likely patients are to die. About a third of the first 41 patients reported in Wuhan had to be treated in an I.C.U., many with symptoms of fever, severe cough, shortness of breath and pneumonia. But people with mild cases may never visit a doctor. So there may be more cases than we know, and the death rate may be lower than we initially thought.
+
+At the same time, deaths from the virus may be underreported. The Chinese cities at the center of the outbreak face a shortage of testing kits and hospital beds, and many sick people have not been able to see a doctor.
+
+“There’s still a lot of uncertainty about what this virus is like and what it is doing,” said Dr. Allison McGeer, an infectious disease specialist at Mount Sinai Hospital in Toronto, who was at the frontlines of the Canadian response to SARS.
+
+Early indications suggest the mortality rate for this virus is considerably less than another coronavirus, MERS, which kills about one in three people who become infected, and SARS, which kills about one in 10. All of the diseases appear to latch on to proteins on the surface of lung cells, but MERS and SARS seem to be more destructive to lung tissue. As of Jan. 31, fewer than one in 40 of the people with confirmed infections had died. Many of those who died were older men with underlying health problems.
+
+Here’s how the new coronavirus compares with other infectious diseases:
+
+Pathogens can still be very dangerous even if their fatality rate is low, Dr. McGeer said. For instance, even though influenza has a case fatality rate below one per 1,000, roughly 200,000 people end up hospitalized with the virus each year in the United States, and about 35,000 people die.
+
+3. How long does it take to show symptoms?
+
+Possibly between 2 to 14 days, allowing the illness to go undetected.
+
+The time it takes for symptoms to appear after a person is infected can be vital for prevention and control. Known as the incubation period, this time can allow health officials to quarantine or observe people who may have been exposed to the virus. But if the incubation period is too long or too short, these measures may be difficult to implement.
+
+Some illnesses, like influenza, have a short incubation period of two or three days. People may be shedding infectious virus particles before they exhibit flu symptoms, making it almost impossible to identify and isolate people who have the virus. SARS, however, had an incubation period of about five days. In addition, it took four or five days after symptoms started before sick people could transmit the virus. That gave officials time to stop the virus and effectively contain the outbreak, Dr. McGeer said.
+
+Officials at the U.S. Centers for Disease Control and Prevention estimate that the new coronavirus has an incubation period of 2 to 14 days. But it is still not clear whether a person can spread the virus before symptoms develop, or whether the severity of the illness affects how easily a patient can spread the virus.
+
+“That concerns me because it means the infection could elude detection,” said Dr. Mark Denison, an infectious disease expert at Vanderbilt University in Nashville.
+
+4. How much have infected people traveled?
+
+The virus spread quickly because it started in a transportation hub.
+
+Wuhan is a difficult place to contain an outbreak. It has 11 million people, more than New York City. On an average day, 3,500 passengers take direct flights from Wuhan to cities in other countries. These cities were among the first to report cases of the virus outside China.
+
+Wuhan is also a major transportation hub within China, linked to Beijing, Shanghai and other major cities by high-speed railways and domestic airlines. In October and November of last year, close to two million people flew from Wuhan to other places within China.
+
+China was not nearly as well-connected in 2003 during the SARS outbreak. Large numbers of migrant workers now travel domestically and internationally — to Africa, other parts of Asia and Latin America, where China is making an enormous infrastructure push with its Belt and Road Initiative. This travel creates a high risk for outbreaks in countries with health systems that are not equipped to handle them, like Zimbabwe, which is facing a worsening hunger and economic crisis.
+
+Over all, China has about four times as many train and air passengers as it did during SARS outbreak:
+
+China has taken the unprecedented step of imposing travel restrictions on tens of millions of people living in Wuhan and nearby cities. But experts warned that the lockdown may have come too late and limited access to food and medicine. Wuhan’s mayor acknowledged that five million people had left the city before the restrictions began, in the run-up to the Lunar New Year.
+
+“You can’t board up a germ. A novel infection will spread,” said Lawrence O. Gostin, a law professor at Georgetown University and director of the World Health Organization Collaborating Center on National and Global Health Law. “It will get out; it always does.”
+
+5. How effective will the response be?
+
+The W.H.O. has praised China’s efforts, but critics fear lockdown measures may not be enough.
+
+In addition to closing off transportation, officials shut down a market in Wuhan selling live poultry, seafood and wild animals, which was thought to be the origin of the coronavirus, and later suspended the trade of wild animals nationwide. Schools have been closed, Beijing’s Great Wall is off limits and tourist packages from China have been halted. World Health Organization officials have praised China’s aggressive response to the virus.
+
+But the measures have also had unintended effects. Residents in Wuhan who are unwell must walk or cycle for miles to get to hospitals. There, many complain that they are being turned away because of shortages of hospital beds, staff and supplies that have been made worse by the lockdown.
+
+Until recently, researchers abroad were also concerned by the fact that China was not admitting experts who could help track the virus and prevent its spread.
+
+On Thursday, the W.H.O. declared the outbreak a global health emergency, acknowledging that the disease represents a risk beyond China.
+
+Health officials in the United States and other countries have started screening passengers arriving at airports and isolating those who appear to be ill. Several countries — including Kazakhstan, Russia and Vietnam — have temporarily restricted travel and visas to and from China. But critics fear that these measures will not be enough.
+
+6. How long will it take to develop a vaccine?
+
+A vaccine is still a year away — at minimum.
+
+A coronavirus vaccine could prevent infections and stop the spread of the disease. But vaccines take time.
+
+After the SARS outbreak in 2003, it took researchers about 20 months to get a vaccine ready for human trials. (The vaccine was never needed, because the disease was eventually contained.) By the Zika outbreak in 2015, researchers had brought the vaccine development timeline down to six months.
+
+Now, they hope that work from past outbreaks will help cut the timeline even further. Researchers have already studied the genome of the new coronavirus and found the proteins that are crucial for infection. Scientists from the National Institutes of Health, in Australia and at least three companies are working on vaccine candidates.
+
+“If we don’t run into any unforeseen obstacles, we’ll be able to get a Phase 1 trial going within the next three months,” said Anthony Fauci, director of the National Institute of Allergy and Infectious Diseases.
+
+Dr. Fauci cautioned that it could still take months, and even years, after initial trials to conduct extensive testing that can prove a vaccine is safe and effective. In the best case, a vaccine may become available to the public a year from now.

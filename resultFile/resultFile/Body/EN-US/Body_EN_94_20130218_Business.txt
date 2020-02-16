@@ -1,0 +1,51 @@
+The fight over Apple’s $140 billion cash pile is proving the adage that money can make people do strange things.
+
+And it is not just Apple that is doing things it would not have done before. The hedge fund manager David Einhorn, famous for shorting stocks like Lehman Brothers, has gone long on Apple, betting heavily that Apple’s stock is undervalued — and blaming that mountain of money.
+
+While most of us would think that having tens of billions would be wonderful, it’s actually a problem for Apple. The money just sits there, not earning much in an environment of extremely low interest rates. And the problem is only getting worse. Apple is accumulating money at an enormous rate — more than $23 billion in the last quarter alone.
+
+It was a more manageable issue when Apple was a rapidly growing stock, but since September Apple’s share price has fallen to roughly $470, from over $700.
+
+According to Mr. Einhorn, roughly $145 of that share price represents Apple’s cash mountain. This means that the market is assigning a low multiple, about seven times earnings, to the rest of Apple’s business.
+
+Multiples for Google are almost three times as much. Apple’s multiple is even less than Microsoft’s — a company whose revenue largely comes from PC operating software, which some people worry is a melting iceberg.
+
+When it came to the buildup of cash, Steven P. Jobs, Apple’s co-founder and former chief executive, simply ignored a problem he had helped create. Mindful of Apple’s past financial difficulties before his return in 1997, he wanted a fortress of cash to protect the company. So he drew a line in the sand, saying no to dividends. After his death, Apple caved a little, announcing a dividend and share repurchase program worth $45 billion.
+
+It’s still not enough for shareholders who want to increase Apple’s multiple and stock price. The fundamental idea is that shareholders could put this money to better use than Apple can, and that its stock would trade higher.
+
+The problem is that even if Apple wanted to return all its cash to shareholders, it can’t. Much of the cash is held abroad in foreign subsidiaries. If the company repatriates it to return to shareholders, it would have to pay taxes on it. Instead, the company is letting the cash sit there in the apparent expectation that there will be federal tax relief.
+
+It’s here that Mr. Einhorn enters the picture. He has been buying Apple shares for a few years, and his fund owns more than 1.3 million shares. The hedge fund magnate wants Apple’s stock to earn a higher multiple by dealing with the cash problem.
+
+But Mr. Einhorn is unwilling to wait for federal tax relief. Instead, he has a clever idea. At an investment conference last May, Mr. Einhorn proposed that Apple issue $500 billion of perpetual preferred stock free to all shareholders. The preferred stock would yield 4 percent and be freely tradable.
+
+So, how will this increase the value of the company? It’s financial wizardry. If Apple issued debt, the market would be expected to subtract this value from Apple’s worth. But the preferred stock would not be treated as debt, for accounting purposes at least.
+
+The only change would be that Apple’s income would be reduced by the amount of the interest paid on $500 billion, or $20 billion a year. If Apple stays at the same multiple, it would give the company a net worth of $300 billion or so. But now the $500 billion in preferred stock would be added, making the company worth $800 billion.
+
+How can one plus one equal four? It depends on whether the market thinks that the $500 billion is not debt and never has to be repaid. If so, then this amount will not be deducted from Apple’s worth. It’s something that may work in theory in our sometimes puzzling financial markets, but no company has ever tried it.
+
+Some experts are skeptical. Aswath Damodaran, a finance professor at New York University, has called the plan financial alchemy and written that it would “not add value to the company, not one cent.” When asked to comment, Mr. Einhorn said, “Professor Damodaran’s analysis brings to memory the old joke about the economist who refused to pick up a $100 bill on the street because in an efficient economy, there can’t be $100 bills lying around.”
+
+Apple’s response to Mr. Einhorn has been equally clever. One would think that the maker of the iPad would just sit above the fray and do what it has traditionally done — ignore its shareholders. But with a declining stock price, that may no longer be a luxury Apple can afford. So, it has engaged with Mr. Einhorn to discuss his proposal. And the notoriously shareholder-unfriendly company has turned strangely in favor of good corporate governance.
+
+In its latest proxy statement, Apple proposes to amend its charter to eliminate a provision called “blank check preferred,” which allows a company to issue preferred shares in unlimited number and type. Almost every company has this provision, but shareholder activists hate it because it can be used as a takeover defense, allowing a company to issue preferred stocks with significant voting rights to a friendly party.
+
+While the proposal to eliminate the preferred shares appears worthy and has been endorsed by the California Public Employees’ Retirement System, the giant pension fund, this proposal is really about Mr. Einhorn.
+
+The amendment has the effect of eliminating the board’s ability to adopt the hedge fund magnate’s plan. Apple says that it just wants to be a good corporate citizen and shareholders can still vote to adopt Mr. Einhorn’s plan. But let’s face it, Apple would be one of the few companies in the United States to ever abolish its blank check preferred provision.
+
+It’s an odd state of events.
+
+By all accounts, it would appear to be a topsy-turvy world. Apple has turned defensive, while Mr. Einhorn is picking a public fight with a company he is betting on, instead of betting against.
+
+Yet Apple is not doing itself any favors by trying to do an end run around Mr. Einhorn.
+
+He has sued Apple, claiming that the company’s proposal violates the securities laws, but the dispute is “a silly sideshow,” as Apple’s chief executive, Timothy D. Cook, put it on Tuesday. Even if Mr. Einhorn wins, it would only force Apple to have a separate vote on the preferred share issue, something it is likely to win.
+
+Even so, it might be better if Apple simply addressed Mr. Einhorn’s proposal head-on. After all, his proposal is clever, but untested. It may work, but it may not. Why should the world’s most valuable company be run as an experiment in finance?
+
+Still, the world is changing. Apple may be a highflier, but its growth prospects are not as exciting as they seemed to be a year ago. Its stock may simply be deflating from an overheated place.
+
+And that’s the oddest thing of all. Despite Apple’s growing cash pile, the company’s value is shrinking. But instead of focusing on making Apple an even better business, shareholders are trying to rescue their bubblelike bets with financial gimmickry, and Apple is engaging in its own gimmicks to defeat them. Even Apple can be consumed by the strange world of Wall Street.

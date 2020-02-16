@@ -1,0 +1,47 @@
+Sign up for NYT Chinese-language Morning Briefing.
+
+After a week of interviews in Beijing, Shenzhen and Hong Kong, I’ve come away with some strong feelings about the United States-China trade dispute. There are two battlefronts: One is the negotiation to eliminate the barriers to American companies competing in China, and the other is what to do about Huawei, China’s enormous telecom networking company that Beijing sees as a crown jewel of national innovation and the Trump team sees as a giant global espionage device.
+
+Get to know that name — Huawei. The issues it represents are as important as all the rest of the trade talks combined.
+
+On the pure trade battlefront, I left China feeling that there’s a decent chance a limited deal — rolling back some American tariffs in exchange for a resumption of certain Chinese imports, particularly agricultural products, from the United States — can be reached in the near term. Both sides could use such a deal.
+
+I also left feeling, though, that President Xi Jinping is less likely to sign on to the kind of grand bargain, and broad concessions, that Trump is demanding. That’s in part because Xi would get too much pushback from his state-owned industries and Communist Party hard-liners. But it’s also because months of impulsive Trump threats, tariffs, praises and then more threats have clearly led a lot of Chinese officials to conclude that Trump is an unstable character who always has to be seen to “win” and humiliate the other side, and therefore can’t be counted on for a big win-win deal — or even stick to it if one were agreed on. Better to let the talks drag on.
+
+Looming over all of this, though, is how to deal with Huawei — the world’s largest manufacturer of 5G networking equipment and the second-largest smartphone maker in the world, after Samsung and ahead of Apple.
+
+Depending on whom you believe, Huawei is either a scrappy telecom that fought its way to the top since its founding in 1987 with over $100 billion in sales today, a cowboy capitalist that made its way up by stealing the technology of others, or a giant worldwide listening device for Chinese intelligence that needs to be banned from ever installing equipment in the United States and uprooted from our allies.
+
+Imagine China telling Apple that it can never make or sell another phone in China or in any of China’s Asian trading partners, which is the rough equivalent of what Trump has told Huawei in America. I don’t know if it is justified or not — you would need access to American intelligence — but I do know it’s worth an effort to defuse the Huawei crisis. Otherwise we’re heading for a two-technology world, with a Chinese zone and an American zone, and a digital Berlin Wall running right down the middle.
+
+That is why I was happy to accept the invitation of Huawei’s founder and chief executive, Ren Zhengfei, to come to his company’s headquarters in Shenzhen for a rare interview, which he used to — for the first time — propose negotiations with the Justice Department to try to resolve all the outstanding issues between Washington and Huawei.
+
+Ren told me: “If the U.S. reaches out to us in good faith and promises to change their irrational approach to Huawei, then we are open to a dialogue. The U.S. shouldn’t try to destroy Huawei over something trivial. If the U.S. feels we have done something wrong, then we can discuss it in good faith and find a reasonable solution. I think we can accept that approach."
+
+He added for emphasis, “There are no restrictions on what we would be willing to discuss with the Department of Justice.”
+
+And if the United States — which has no indigenous 5G networking manufacturer — still does not trust Huawei to install its equipment across America at scale, added Ren, then he is also ready, for the first time, to license the entire Huawei 5G platform to any American company that wants to manufacturer it and install it and operate it, completely independent of Huawei. (The only other 5G major suppliers are Nokia and Ericsson, European companies whose products are far more expensive than Huawei’s.)
+
+Huawei, Ren said, is “open to sharing our 5G technologies and techniques with U.S. companies, so that they can build up their own 5G industry. That would create a balanced situation between China, the U.S. and Europe.” But, he added, “the U.S. side has to accept us at some level for that to happen.” American companies “can also modify our 5G technologies to meet their security requirements.” They can even “change the software code. In that case, the U.S. will be assured of information security.”
+
+This is clearly an olive branch, and for a reason: Huawei burst into American consciousness when its chief financial officer — and Ren’s daughter — Meng Wanzhou was put under house arrest in December 2018 by Canadian authorities while on a trip there, after the Justice Department sought her extradition because of alleged violations by Huawei of American sanctions on Iran. She has denied the charges.
+
+(While she has been awaiting extradition to the United States in a Vancouver mansion, though, Beijing has detained two Canadians in China, in solitary accommodations and under brutal conditions, so as to force an exchange. Canada has stood with the United States and refused.)
+
+In January, American prosecutors indicted Meng and Huawei on 23 counts, ranging from wire fraud to conspiracy to defraud the United States to stealing trade secrets. Then in May, the Department of Commerce put Huawei and 70 of its affiliates on its “Entity List,” or blacklist, which means no American company can sell them hardware, chips, software or services without special permission.
+
+The export blacklist takes full effect on Nov. 19, which will mean that Google, whose Android operating system sits on every Huawei phone; Microsoft, whose Windows operating system sits on every Huawei computer; and Intel, whose chips run Huawei’s 5G networks, can no longer do business with China’s biggest phone equipment company. And even foreign companies that depend on American technology are being pressured by Trump not to deploy Huawei products.
+
+American officials believe that Huawei, in addition to violating sanctions on Iran, can install “back doors” in its equipment that Chinese intelligence can exploit, although no one has yet found any — or at least none has been publicly reported.
+
+Which is why the Trump team is now facing challenges not only from Huawei, but also from some of the company’s biggest American suppliers, who stand to lose a huge chunk of business. Microsoft President Brad Smith told Bloomberg Businessweek on Monday that when his company pressed regulators to explain their Huawei ban, “oftentimes, what we get in response is, ‘Well, if you knew what we knew, you would agree with us.’ And our answer is, ‘Great, show us what you know, so we can decide for ourselves. That’s the way this country works.’”
+
+I have no idea who is telling the truth in this story. If Huawei really is a bad actor, let’s get the proof out there and blacklist the hell out of it. If it’s not so clear, the Trump team should at least explore Ren’s offer to see if there is a pathway for Huawei to assure American intelligence experts and demonstrate good behavior. Because Huawei is the tip of a huge iceberg.
+
+For the first 30 years of United States-China trade, Chinese companies mostly sold us what I would call “shallow’’ or “surface” goods — clothes we wore on our backs, shoes we wore on our feet and electronics we put in our ears. But now that China is becoming a technological powerhouse of its own, it wants to sell us “deep technologies” — like 5G networking that gets embedded deep into our basements, bedrooms, factories and communications infrastructures.
+
+That’s why American officials are asking: How can we let Huawei place its 5G technology in our cities and homes? Can’t it be used by China to spy on us or turn off our electricity in a war? And China asks the same about us.
+
+Either the United States and China develop whole new frameworks of trust to manage trade in deep technologies or, as my colleague Raymond Zhong put it in this paper on July 18, going forward every purchase of telecommunications equipment will be transformed “from a business decision into a geopolitical one — a test of national allegiances to Washington or to Beijing.”
+
+That will be a more fractured, less prosperous and less peaceful world.

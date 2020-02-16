@@ -1,0 +1,39 @@
+In setting the nation on a course to map the active human brain, President Obama may have picked a challenge even more daunting than ending the war in Afghanistan or finding common ground with his Republican opponents.
+
+In more than a century of scientific inquiry into the interwoven cells known as neurons that make up the brain, researchers acknowledge they are only beginning to scratch the surface of a scientific challenge that is certain to prove vastly more complicated than sequencing the human genome.
+
+The Obama administration is hoping to announce as soon as next month its intention to assemble the pieces — and, even more challenging, the financing — for a decade-long research project that will have the goal of building a comprehensive map of the brain’s activity.
+
+At present, scientists are a long way from doing so. Before they can even begin the process, they have to develop the tools to examine the brain. And before they develop tools that will work on humans, they must succeed in doing so in a number of simpler species — assuming that what they learn can even be applied to humans.
+
+The state of the art in animal research is to sample from roughly a thousand neurons simultaneously. The human brain has between 85 and 100 billion neurons. “For a human we must develop new techniques, and some of them from scratch,” said Dr. Rafael Yuste, a neuroscientist at Columbia who has pioneered the use of lasers to measure the activity of neurons in the cortex of mice.
+
+An article last year in the journal Neuron described a possible path toward mapping the active human brain. The article, signed by six prominent scientists, proposes that the project begin with species that have brains with very small numbers of neurons and then work toward increasingly complex animals.
+
+But the leap to the human brain is so enormous that one of the scientists who has participated in planning sessions, the neuroscientist Terry Sejnowski from the Salk Institute, has called the challenge “the million neuron march.”
+
+While the researchers have proposed a wide range of technologies that might be applied to the problems, many of them are still prototypes or speculative. Some of them, like nano-robots being designed at places like the Wyss Institute laboratory at Harvard, seem like they are straight from “Fantastic Voyage,” the 1966 movie that imagined the ability to shrink submarines and humans — specifically, Raquel Welch — for journeys through the human body.
+
+Moreover, many technologies now used to sample human brain activity at high resolution require opening the skull, dramatically restricting what is possible. Progress is being made using those available techniques, but only at a basic level.
+
+Still, last week in the journal Nature a group of neurosurgeons at the University of California, San Francisco, reported significant new insights into mechanisms of the language function of the human brain. That research, which was conducted with permission from three people who had severe epileptic seizures, involved installing a dense sensor mesh of electrodes on the surface of their brains. The 264 electrodes each sampled from an area that might encompass as many as millions of neurons, according to Dr. Edward F. Chang, a neurosurgeon who led the team.
+
+Although the sensor’s resolution was crude, it was four times more powerful than what has been used until now. It revealed how the speech centers in the human cortex control the larynx, tongue, jaw, lips and face, all of which are involved in making the sounds that constitute human speech.
+
+“I don’t think this was a major technological innovation,” Dr. Chang said. “But it demonstrates the power of even incremental advances, and shows how they can have a major impact on what we can understand.”
+
+The goal of the University of California group is ultimately to gain enough understanding of the speech mechanism in the brain to be able to develop sophisticated prosthetics, making it possible for victims of paralysis or stroke to speak.
+
+It is that potential — and more — that has excited scientists, and generated pressure for a multibillion dollar effort to develop a human brain activity map, backed by the United States government, in partnership with research foundations and institutions.
+
+The project’s roots lie in a small scientific conference in London in September 2011.
+
+The meeting had been organized by Miyoung Chun, a molecular biologist who is vice president of scientific programs at the Kavli Foundation. Its goal was to gather some of the world’s best neuroscientists and nano-scientists and figure out how they might work together, according to Ralph J. Greenspan, a molecular biologist at the University of California, San Diego, who attended the conference.
+
+For two days the scientists mostly “talked at each other,” he recalled. Then George M. Church, a Harvard molecular geneticist who helped start the original Human Genome Project in 1984, said, “All right I’ve heard all of you say what you can do, but I haven’t heard anyone say what you really want to do.”
+
+“I want to be able to record from every neuron in the brain at the same time,” Dr. Yuste replied.
+
+In the next year, two white papers calling for a concerted and heavily funded national effort were published. Cristof Koch and R. Clay Reid, of the Allen Institute of Brain Science in Seattle, proposed mapping the mouse brain completely. And in June, six scientists, including Dr. Yuste, Dr. Church, Dr. Greenspan and Dr. Chun, wrote the Neuron paper.
+
+One facet of the project certain to create controversy is that the scientists are also developing technologies that manipulate neurons, raising the specter not just of mind reading, but mind control. The scientists argue that it is in controlling neurons that they can gain valuable information on brain function.

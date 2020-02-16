@@ -1,0 +1,73 @@
+Sign up for NYT Chinese-language Morning Briefing.
+
+Less than a month after the first few cases of a new respiratory illness were reported in Wuhan, China, travelers have carried the virus to at least four other countries, including the United States. More than 500 people have been infected, at least 17 have died — and the world is bracing itself for what might come next.
+
+On Wednesday, experts at the World Health Organization decided to postpone until Thursday a decision on whether the current outbreak constitutes a “public health emergency of international concern,” a label given to “serious public health events that endanger international public health” and “potentially require a coordinated international response.”
+
+Public health officials around the world are on alert because the new infection is caused by a coronavirus, from the same family that caused outbreaks of SARS and MERS, killing hundreds of people in dozens of countries.
+
+The W.H.O. has already advised governments to be prepared for the disease, to be vigilant and ready to test anyone with symptoms like cough and fever who has traveled to affected regions. Air travel is expected to surge as the Lunar New Year approaches this weekend.
+
+Several countries have already begun screening travelers from China for fever and cough. Airports in Los Angeles, New York and San Francisco last week started to screen arriving flights from Wuhan, and airports in Atlanta and Chicago will begin doing so this week.
+
+But important questions about the outbreak are still unanswered, and W.H.O.’s expert committee now must grapple with significant unknowns.
+
+“We don’t know how many people are infected,” said Tarik Jasarevic, a spokesman for the W.H.O. “The more you test, the more you will find people who are infected. We don’t know if there are asymptomatic cases. If they are asymptomatic, are they contagious?”
+
+Broad studies to test for evidence of infection, past and present, would give a true picture of how many people have been exposed to the virus.
+
+“Testing is possible because China immediately shared the genetic sequence of the virus, and we have to give them credit for that,” Mr. Jasarevic said.
+
+The virus causes a pneumonialike illness, with coughing and fever in some people but not all. The severity matters: If there are cases with mild illness or no symptoms at all, they may go undetected, and those people will keep working, shopping and traveling, possibly infecting others.
+
+A milder illness has the potential to spread farther and cause longer-lasting outbreaks than one with more obvious symptoms, according to Dr. Mark R. Denison, an infectious disease specialist at the Vanderbilt University School of Medicine who studies coronaviruses.
+
+Compared to SARS and MERS, the Wuhan illness so far does seem less severe, he said.
+
+SARS, which began in live-animal markets in China in 2002, quickly spread to dozens of countries, infecting more than 8,000 people and killing nearly 800. The virus is thought to have originated in bats and spread to civet cats that were being sold for consumption.
+
+The civets spread the virus to humans, who infected one another through respiratory secretions and also exposure to feces.
+
+SARS often caused severe illness, so cases were detectable; aggressive public health measures, including quarantines and travel restrictions, helped stamp out the epidemic.
+
+But the travel bans, not to mention widespread fear and distrust, took a heavy economic toll on China, and since then international authorities have become hesitant about taking drastic steps to quell outbreaks.
+
+MERS cases have been occurring in the Middle East since 2012, mainly in people who have been exposed to camels, which were most likely infected by bats. Human-to-human transmission does occur, and some spread has happened in hospitals.
+
+As of November, there had been 2,494 cases of MERS in the last seven years, mostly in Saudi Arabia. The death rate is 34 percent, but may actually be lower if there are mild cases of the disease that have not been detected or counted.
+
+Dr. Denison described the new Wuhan coronavirus as “sort of a first cousin of SARS,” more closely related to it than to MERS, based on its genetic sequence.
+
+Researchers do not know just how contagious the Wuhan coronavirus is. The first people to be infected are thought to have contracted it at a market in Wuhan that sold meat, fish and live animals.
+
+That market has been shut down and disinfected. Which animal might have been carrying the virus is not yet known.
+
+Initially, the illness appeared to spread only from animals to people. Then, experts said there was evidence of “limited” human-to-human transmission. Now, more cases are emerging among people with no known exposure to the animal markets, and in medical staff members caring for infected patients.
+
+“Now that you have a cluster of 14 health care workers infected, it suggests that the potential for spread is much greater,” said Dr. Ian W. Lipkin, director of the Center for Infection and Immunity at Columbia University’s Mailman School of Public Health in New York, who has researched SARS and MERS.
+
+“I saw film footage of a hospital lobby in Wuhan, and they are wearing full personal protective equipment from head to toe,” he said. “They are taking it very seriously. I still don’t think this is as bad as SARS, but it’s worse than they originally portrayed it.”
+
+Dr. Denison said that with both SARS and MERS, there were episodes in which individual patients became “super-spreaders” who infected many other people, for unknown reasons.
+
+“That’s a wild card we don’t know, the capacity to have multiple transmissions from one person,” Dr. Denison said. “There was no evidence they had dramatically different virus.”
+
+It is possible, he said, that super-spreaders had received a high dose of the virus and had more of it to transmit. Alternatively, their immune systems might have not been able to control the virus, allowing it to multiply and spread extensively in their bodies, making them more contagious.
+
+Although no drugs have been approved specifically to treat coronavirus diseases, Dr. Denison said that in animal studies, an antiviral called remdesivir appeared effective. He has been working with other researchers to develop treatments.
+
+Mr. Jasarevic said that antivirals were being tested against MERS, but that none had been approved yet.
+
+How and why viruses that have peacefully coexisted with their animal hosts for a long time strike out for new territory — us — is not well understood.
+
+Coronaviruses often inhabit bats without harming them, and sometimes move into other animal species and from them to humans.
+
+In places that bring multiple animal species together with lots of people — like the food markets in Wuhan and in other parts of China that sell live mammals and birds, along with meat and fish — viruses can pass back and forth between species, mutating as they go. Along the way, they may become able to infect humans.
+
+“Coronaviruses have repeatedly shown an ability to probe across species and cause new animal and human diseases,” Dr. Denison said.
+
+To go successfully from animal hosts to people, the viruses need to adapt in several ways: They must gain the ability to invade human cells, evade the immune system, replicate inside the human body and spread to others.
+
+The move is often described as “jumping” into humans, but that is an oversimplification, Dr. Denison said. “The process it has to go through is more like high hurdles with a thousand hurdles along the way,” he said.
+
+Still, the new outbreak does not greatly surprise him: “This was a matter of not if, but when.”
