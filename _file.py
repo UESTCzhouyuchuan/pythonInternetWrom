@@ -13,7 +13,7 @@ import json
 
 
 def writeToTxt(filename, arr):
-    file = open(filename, mode='w',encoding="utf8")
+    file = open(filename, mode='r+',encoding="utf8")
     # str的join方法
     _str = "\n\n".join(arr)
     try:
