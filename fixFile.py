@@ -12,7 +12,8 @@ def consult(filename,index):
     str_ = readFile(filename)
     # print(str_)
     f = open(filename,mode="w",encoding="utf-8")
-    data = re.sub("\([a-zA-Z\s\.]*\)","",str_)
+    data = re.sub("\(.*?\)", "", str_)
+    data = re.sub("（.*?[a-zA-Z]+.*?）", "", data)
     # print(data)
     f.write(data);
     f.flush()
