@@ -1,0 +1,37 @@
+In 1946, a 23-year-old Army veteran named John Goodenough headed to the University of Chicago with a dream of studying physics. When he arrived, a professor warned him that he was already too old to succeed in the field.
+
+Recently, Dr. Goodenough recounted that story for me and then laughed uproariously. He ignored the professor’s advice and today, at 94, has just set the tech industry abuzz with his blazing creativity. He and his team at the University of Texas at Austin filed a patent application on a new kind of battery that, if it works as promised, would be so cheap, lightweight and safe that it would revolutionize electric cars and kill off petroleum-fueled vehicles. His announcement has caused a stir, in part, because Dr. Goodenough has done it before. In 1980, at age 57, he coinvented the lithium-ion battery that shrank power into a tiny package.
+
+We tend to assume that creativity wanes with age. But Dr. Goodenough’s story suggests that some people actually become more creative as they grow older. Unfortunately, those late-blooming geniuses have to contend with powerful biases against them.
+
+“Young people are just smarter,” Mark Zuckerberg pronounced at an event at Stanford in 2007, when he was the 22-year-old chief executive of Facebook. He added, according to a VentureBeat writer, “I only own a mattress,” and then expounded upon the putative correlation between youth and creative power. His logic didn’t exactly make sense (and he later apologized), but his meaning was perfectly clear: Middle-aged people are encumbered by boring possessions (gutters, dental floss, orthopedic shoes) and stale ideas.
+
+Since that speech, Silicon Valley’s youth worship seems to have grown even more feverish. Recently, a 12-year-old inventor named Shubham Banerjee received venture-capital funds from Intel to start his own company.
+
+In such a climate, it’s easy for us middle-aged folk to believe that the great imaginative leaps are behind us, and that innovation belongs to the kids.
+
+On the contrary, there’s plenty of evidence to suggest that late blooming is no anomaly. A 2016 Information Technology and Innovation Foundation study found that inventors peak in their late 40s and tend to be highly productive in the last half of their careers. Similarly, professors at the Georgia Institute of Technology and Hitotsubashi University in Japan, who studied data about patent holders, found that, in the United States, the average inventor sends in his or her application to the patent office at age 47, and that the highest-value patents often come from the oldest inventors — those over the age of 55.
+
+John P. Walsh, one of the professors, joked that the Patent Office should give a “senior discount” because “there’s clear evidence that people with seniority are making important contributions to invention.”
+
+A study of Nobel physics laureates found that, since the 1980s, they have made their discoveries, on average, at age 50. The study also found that the peak of creativity for Nobel winners is getting higher every year. For many years, oddsmakers have predicted that Dr. Goodenough would win the Nobel Prize, but so far the call from Stockholm has not come. You might call him the Susan Lucci of chemistry. If he finally does prevail, he could be the oldest person ever to receive the Nobel, and a harbinger.
+
+The more I talked to Dr. Goodenough, the more I wondered if his brilliance was directly tied to his age. After all, he has been thinking about energy problems longer than just about anyone else on the planet.
+
+He grew up in the early days of the petroleum age, in a Connecticut farmhouse with a kerosene stove and an icebox for food. As a kid he rode in some of the early cars pioneered by Henry Ford. “The first car the family owned was a Model A,” he told me, with running boards and a lead-acid battery.
+
+In the 1970s, the energy crisis inspired him to imagine how one could store power in tiny packages. Today, we’re still using his lithium-ion technology in our laptops, phones and electric cars. But Dr. Goodenough has long been bothered by the shortcomings of his brainchild, and driven by the need to do better. “One of the things that’s important in the society is to wean ourselves from our dependence on fossil fuels, and if we could make an electric car that would be as convenient and as cheap as an internal-combustion engine, we’d get CO2 emissions off the road,” he said.
+
+He believes the lithium-ion battery is too liable to explode, too expensive and too weak to bring us into that future.
+
+Years ago, he decided to create a solid battery that would be safer. Of course, in a perfect world, the “solid-state” battery would also be low-cost and lightweight. Then, two years ago, he discovered the work of Maria Helena Braga, a Portuguese physicist who, with the help of a colleague, had created a kind of glass that can replace liquid electrolytes inside batteries.
+
+Dr. Goodenough persuaded Dr. Braga to move to Austin and join his lab. “We did some experiments to make sure the glass was dry. Then we were off to the races,” he said.
+
+Some of his colleagues were dubious that he could pull it off. But Dr. Goodenough was not dissuaded. “I’m old enough to know you can’t close your mind to new ideas. You have to test out every possibility if you want something new.”
+
+When I asked him about his late-life success, he said: “Some of us are turtles; we crawl and struggle along, and we haven’t maybe figured it out by the time we’re 30. But the turtles have to keep on walking.” This crawl through life can be advantageous, he pointed out, particularly if you meander around through different fields, picking up clues as you go along. Dr. Goodenough started in physics and hopped sideways into chemistry and materials science, while also keeping his eye on the social and political trends that could drive a green economy. “You have to draw on a fair amount of experience in order to be able to put ideas together,” he said.
+
+He also credits his faith for keeping him focused on his mission to defeat pollution and ditch petroleum. On the wall of his lab, a tapestry of the Last Supper depicts the apostles in fervent conversation, like scientists at a conference arguing over a controversial theory. The tapestry reminds him of the divine power that fuels his mind. “I’m grateful for the doors that have been opened to me in different periods of my life,” he said. He believes the glass battery was just another example of the happy accidents that have come his way: “At just the right moment, when I was looking for something, it walked in the door.”
+
+Last but not least, he credited old age with bringing him a new kind of intellectual freedom. At 94, he said, “You no longer worry about keeping your job.”

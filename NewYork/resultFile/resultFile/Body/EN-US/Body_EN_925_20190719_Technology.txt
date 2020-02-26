@@ -1,0 +1,73 @@
+HANOI, Vietnam — The battle for technological dominance between the United States and China is splitting the world in two, though not always along the lines you might expect.
+
+American allies such as Britain and Germany have signaled that they are unlikely to back Washington’s effort to stop countries from working with the Chinese technology giant Huawei, which American officials call a Trojan Horse for Beijing’s cyberspies. Australia has barred the firm from building its next-generation 5G cellphone networks, even though its economy depends on China’s appetite for natural resources. South Korea and the Philippines have not, despite past frictions with China.
+
+And then there is Vietnam. At first glance, this fast-developing nation might seem to be a natural customer for Huawei. Its economy is entwined with China’s, and Beijing has embraced the country’s Communist Party leaders in Hanoi as ideological brethren.
+
+Yet Vietnam’s leading mobile carriers appear to be keeping Huawei out of their 5G plans, even if the government’s fear of incensing Beijing most likely prevents them from saying so.
+
+All around the world, the Trump administration’s assault on the Chinese firm has turned the purchase of telecommunications equipment from a business decision into a geopolitical one — a test of national allegiances to Washington or to Beijing.
+
+In Southeast Asia, which has been transformed by Chinese money, Huawei has been widely welcomed. The firm opened a 5G testing station in Thailand this year. Indonesia’s communications minister recently told Reuters that the government could not be “paranoid” about Huawei, while Malaysia’s prime minister has said his country will use the company’s technology “as much as possible.”
+
+In Vietnam, though, major mobile carriers have explored 5G collaborations with Ericsson and Nokia, but not with Huawei. The largest among them, Viettel, does not use Huawei equipment in its current 4G network, either, though it has no problem using Chinese technology in some of the other countries where its local subsidiaries provide 4G service, including Cambodia, Laos and Peru.
+
+In Viettel’s telling, none of this means the company, which is owned by the Vietnamese government, is shunning Huawei. Hanoi has never barred Vietnamese telecom providers from using Chinese equipment, Tao Duc Thang, a Viettel deputy general director, said in an interview with The New York Times.
+
+That means Viettel and Huawei could still team up someday, Mr. Thang said. “For the future, we don’t know.”
+
+But observers expect that Vietnamese carriers will err on the side of caution when they sign commercial 5G agreements. China and Vietnam fought a brief but bloody war 40 years ago, and Hanoi has watched warily as its northern neighbor’s wealth and military ambitions have grown ever since.
+
+“The whole world needs to be careful with China,” said Maj. Gen. Le Van Cuong, the former director of the Institute of Strategic Studies at the Vietnamese Ministry of Public Security. “If a superpower like America regards China as a cybersecurity threat, then of course Vietnam has to.”
+
+Huawei has long denied that it takes orders from Beijing or that its products are a security risk.
+
+“Vietnam has not been a strong 4G market for Huawei, and we have modest ambitions for 5G there,” said a company spokesman, Joe Kelly.
+
+Mobile internet coverage has increased quickly in Vietnam, and the government is in a hurry to develop its networks further. Today, even remote mountain, coastal and island communities have 4G. Vietnamese leaders say they want 5G connections ready next year, hoping that ultrafast internet will give a jolt to economic development.
+
+But the country’s sour recent relations with Beijing may have made officials nervous about entrusting the task to Chinese companies. Although the two nations see eye to eye on censoring and controlling the internet, they have been at odds for years over territory in the South China Sea, which Vietnam calls the East Sea. After China placed an oil rig off Vietnam’s coast in 2014, marauding crowds of Vietnamese workers stormed factories and attacked Chinese laborers.
+
+In response, Hanoi has cautiously cultivated closer ties with Washington. Still, China is Vietnam’s largest trading partner, and Chinese companies have brought in capital and job opportunities. Living in China’s backyard means Vietnam must keep its powerful neighbor close, but not too close.
+
+“We can’t pick up and move the country somewhere else,” said Do Tien Sam, a former director of the Institute of Chinese Studies at the Vietnam Academy of Social Sciences in Hanoi.
+
+And so Hanoi has endorsed Beijing’s Belt and Road Initiative, an enormous global infrastructure plan. But it has not officially labeled any new building projects as being part of the program.
+
+Close but not too close seems to be the strategy with Huawei, too.
+
+“They don’t want to give China a reason to be angry,” said Alexander L. Vuving, a Vietnam specialist at the Daniel K. Inouye Asia-Pacific Center for Security Studies in Honolulu. “Any indication that the Vietnamese government discriminates against the Chinese would be used as an excuse for the Chinese government to put more pressure on Vietnam.”
+
+Plenty of Chinese tech firms have a lively presence in Vietnam. Along Hanoi’s motorbike-filled streets, cellphone shops advertise Chinese brands such as Xiaomi, Oppo and Vivo.
+
+The country was not always so wary of Huawei’s telecom equipment. When Viettel began building its 3G network a decade ago, it signed agreements with Huawei and another Chinese supplier, ZTE, according to the research firm TeleGeography.
+
+Thanh Son Dang, a partner in Hanoi at the law firm Baker McKenzie and a former general counsel for Viettel, said Vietnam’s laws regulating the telecom industry sent a clear signal to companies about where their priorities should lie.
+
+“In any regulation, the government of Vietnam always highlights the importance of national security,” Mr. Dang said. The ghosts of wars with China and the West are never far from mind, he said.
+
+Huawei may not be officially banned in Vietnam, but officials here go to great lengths to avoid talking about it.
+
+Last month, Vietnam’s deputy minister of information and communications, Nguyen Thanh Hung, agreed to an interview with The Times. But when a Times reporter arrived in Hanoi, the Ministry of Information and Communications postponed the interview repeatedly over the course of a week.
+
+In the end, no interview took place. The ministry also declined to answer written questions.
+
+Mr. Thang, a deputy general director at Viettel, was initially more open when he met a Times reporter at the company’s offices in Hanoi.
+
+Viettel has been developing its own software and equipment for many years, Mr. Thang said, and employs 300 engineers in research and development. It has designed and produced its own base stations, which exchange radio signals with cellphones, and its own computer systems for billing customers’ accounts, he said.
+
+Most mobile carriers simply buy these things from outside vendors such as Ericsson or Huawei. Mr. Thang said Viettel had deployed around 1,000 self-produced 4G base stations across Vietnam, Cambodia and other countries.
+
+But when asked whether Viettel’s aim in developing its own equipment was to help keep its networks secure, Mr. Thang first consulted in Vietnamese with a company communications officer, Le Duc Anh Tuan, who then answered in English.
+
+The most important reason for Viettel to develop its own software, Mr. Tuan said, is so it can respond more nimbly to customers’ changing needs. Security is not the main factor, he said.
+
+Asked why Viettel didn’t use Huawei in Vietnam but did use Chinese suppliers elsewhere, Mr. Tuan said equipment makers gave the company different deals in each country. “We have many partners,” he said, and Viettel considered each of them on its merits.
+
+At that point, Mr. Thang quietly asked another colleague in Vietnamese how much time had been promised for the interview.
+
+One hour, she replied.
+
+“Why so long?” he said.
+
+Mr. Thang gave vague answers to a few more questions about Huawei before Mr. Tuan said that only five minutes remained in the interview, and that Mr. Thang did not have anything more to say about Huawei.

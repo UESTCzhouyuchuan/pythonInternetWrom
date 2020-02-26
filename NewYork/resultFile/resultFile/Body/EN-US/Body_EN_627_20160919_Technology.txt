@@ -1,0 +1,61 @@
+Each Saturday, Farhad Manjoo and Mike Isaac, technology reporters at The New York Times, review the week’s news, offering analysis and maybe a joke or two about the most important developments in the tech industry. Mike is off this week, so Paul Mozur, the Times’s Asia technology correspondent, stepped in.
+
+Farhad: How’s it going, Paul! Mike is blessedly on vacation this week, so I get the pleasure of chatting with you. Thank you for turning what’s normally the worst part of my week into the best.
+
+Paul: Happy to pitch in. Though it’s hard to know what counts as pleasure for a man who I just discovered doesn’t like “The Big Lebowski”?
+
+Farhad: You know what I’ve been really getting into lately? “Keeping Up With the Kardashians.” It’s so good! But that’s for another time.
+
+So you’re visiting San Francisco this week from Hong Kong, where you cover the tech business across Asia. But before we move to Asian tech, let’s start by talking about things closer at hand. In other words, Apple.
+
+Reviews of the new iPhone, the 7 and 7 Plus, and the new Apple Watch came out, and they were mostly positive. My own take: The lack of a headphone jack on the new iPhone isn’t a huge problem, the new wireless headphones are interesting but kind of weird, and the new watch is slightly better than the old one, but nothing most people need just yet.
+
+But who cares what I think. Increasingly what matters for Apple is what the people in China think of its phones. China had been a huge growth area for Apple, but in the last year things began to slide. Apple has also had more trouble with Chinese regulators as it has become a bigger force in the Chinese tech industry. What’s going on? Are the Chinese still in love with iPhones?
+
+Paul: I do think the Chinese are still in love with the iPhone, but as with any relationship that goes on long enough, some of the thrill has gone. The main problem Apple is facing at the moment is a slew of Chinese competitors that make high-quality phones. Some fans are being led astray, and it’s up to Apple to catch their eye again. Given the new version of the iPhone doesn’t boast any conspicuous upgrades, it could be that Apple’s sagging fortunes in China continue in the short term.
+
+Still, that doesn’t mean Apple has lost its hold on the market. In covering Apple’s most recent slowdown in China, I was reminded of a similar piece I wrote in 2012 when Apple was struggling to compete with Samsung’s phones that had larger screens. Apple has recovered from lulls in China in the past, and could again.
+
+Chinese consumers crave not only what’s new, but also what stands out as new. Apple still very much has a hold on the Chinese consumer, but many may well wait another year to see what Apple does for the 10th anniversary of the iPhone, when there may be more of a wow factor.
+
+That said, a part of me thinks the new wireless headphones could be a hit in China. More so than a new iPhone, they broadcast that a user is willing to drop a solid chunk of change to keep up on tech trends. That formula has worked well for Apple in the past in China, though it would have helped if they made the AirPods in gold and rose gold options.
+
+Farhad: Oh, I bet rose gold AirPods are coming. Put me down for none.
+
+Other tech news this week involved cars. Uber began rolling out its self-driving cars in Pittsburgh. (Mike got to ride in one!)
+
+Silicon Valley’s other big car start-up, Tesla, experienced more bad news. Not only did I throw shade on its prospects in my column this week, but another report of a malfunction with its Autopilot driving system came in from China. According to a report from the Chinese government news channel CCTV, the car’s self-driving system failed to stop as the vehicle approached a street sweeper, resulting in the death of the driver.
+
+This got me thinking about the car business in China. Every American tech company sees China as a huge market, but the transportation companies are especially interested. Uber spent billions trying to break in there before selling its operations to the local competitor, Didi Chuxing, in which Uber will now have a stake.
+
+What else is going on in Chinese transportation business that you think Americans should know about?
+
+Paul: It’s good to know there’s now a safe way to have Mike behind the wheel. The first thing to realize is driving conditions in China are very different from America. In China, most traffic laws are taken as suggestions (cars blithely reverse down highways when they miss exits and occasionally use sidewalks as an extra lane) and on highways, slow moving, big vehicles like that street sweeper are not uncommon.
+
+All of that means we will probably see more tech failures as autonomous driving technology starts to be used more frequently on both sides of the Pacific. In China, Baidu and LeEco are both working on driverless technology. The companies will probably be helped by the fact that the Chinese government wants to see them succeed and has proved quite proactive in giving them a lift. Baidu already has regulatory buy-in to try out its technology on bus routes.
+
+I do also think we could see some political issues crop up as the technology is more widely used. The Chinese government will want to give its local companies a leg up and it has also been uncomfortable letting foreign companies collect data within China and beam it elsewhere, so it could be we see some roadblocks go up to foreign autonomous driving technology down the line.
+
+Farhad: Finally, one of the biggest tech stories this week is about the Korean tech giant Samsung, whose Galaxy Note 7 smartphone descended further into infamy when the United States Consumer Product Safety Commission issued a formal recall on Thursday.
+
+The commission said Samsung has received 92 reports of batteries overheating in the United States, among them “26 reports of burns and 55 reports of property damage, including fires in cars and a garage.”
+
+The formal recall comes a couple weeks after Samsung issued its own recall. But the company has been criticized for the way it has bungled the process. The whole incident seems like a terrible blow to its reputation, which had recently been on the upswing after the company released a slate of well-reviewed phones.
+
+So, what do you think? How bad is this for Samsung?
+
+Paul: It can’t be good when planes across the world are reminding passengers that Samsung’s phones can spontaneously detonate. It’s a major blow, and one that probably hit some of the company’s most loyal customers who would be the first to buy the new phones.
+
+The bungled recall probably hints at a broader issue for Samsung. There’s no real parallel in America that can illustrate just how influential Samsung is in South Korea. It’s responsible for something like 20 percent of the country’s exports, and that has helped it get a pass from both media and regulators in the past. The most galling example of this was when the company’s former chairman was pardoned by South Korea’s president in 2009 after he was convicted of tax evasion and embezzlement.
+
+One has to wonder how much the coddling Samsung gets at home is to blame for the company’s bumbling response to this battery problem. Our co-worker Brian X. Chen found the company was also pretty incompetent when his Samsung oven broke, sending a technician seven times before ultimately replacing it.
+
+Samsung is much bigger than the electronics it sells to consumers. It makes microchips, screens, memory and all manner of components. It will have little trouble paying the likely $1 billion price tag for the recall. And its reputation will survive. Given that, the biggest question is does it learn from this?
+
+There was an editorial in the Korean newspaper, the Chosun Ilbo, faulting Samsung for the technological mistakes that led to this issue. Certainly that matters, but it seems a bit beside the point. With the supply chain as complex as it is, mistakes will occasionally happen. The thing that Samsung can control, and should do better at, is communicating with its customers.
+
+Farhad: Right. I’m curious to see if this incident changes their approach to problems. Also, I’m now very scared that all our phones and laptops are hazards waiting to go off.
+
+So anyway … have a good flight back!
+
+Paul: Thanks for playing right into my neuroses about flying.
