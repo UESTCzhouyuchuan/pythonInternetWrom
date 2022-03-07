@@ -1,0 +1,312 @@
+[
+  {
+    "chnlCodes": "",
+    "parentId": "0",
+    "chnlNames": "所有"
+  },
+  {
+    "chnlCodes": "8a817eb738e5e70c0138e625dfeb0bf4",
+    "parentId": 0,
+    "chnlNames": "工作通知",
+    "open": false
+  },
+  {
+    "chnlCodes": "8a817ecb397ab20c01397b58decd29d1",
+    "parentId": "8a817eb738e5e70c0138e625dfeb0bf4",
+    "chnlNames": "省级"
+  },
+  {
+    "chnlCodes": "8a817ecb397ab20c01397b59c84329dd",
+    "parentId": "8a817eb738e5e70c0138e625dfeb0bf4",
+    "chnlNames": "市县级"
+  },
+  {
+    "chnlCodes": "8a817eb738e5e70c0138e5f54a6b0540",
+    "parentId": 0,
+    "chnlNames": "工作动态",
+    "open": false
+  },
+  {
+    "chnlCodes": "8a817eb738e5e70c0138e5f8dd080a4a",
+    "parentId": "8a817eb738e5e70c0138e5f54a6b0540",
+    "chnlNames": "省级"
+  },
+  {
+    "chnlCodes": "8a817eb738e5e70c0138e5fa312e0a5e",
+    "parentId": "8a817eb738e5e70c0138e5f54a6b0540",
+    "chnlNames": "市、州级"
+  },
+  {
+    "chnlCodes": "8a817eb738e5e70c0138e6040a4c0aa6",
+    "parentId": "8a817eb738e5e70c0138e5f54a6b0540",
+    "chnlNames": "县、区级"
+  },
+  {
+    "chnlCodes": "8a817ecb39485e330139488c7ea00a22",
+    "parentId": 0,
+    "chnlNames": "曝光台",
+    "open": false
+  },
+  {
+    "chnlCodes": "8a817ecb39485e330139488c7ea00a22_4",
+    "parentId": "8a817ecb39485e330139488c7ea00a22",
+    "chnlNames": "供应商"
+  },
+  {
+    "chnlCodes": "8a817ecb39485e330139488c7ea00a22_2",
+    "parentId": "8a817ecb39485e330139488c7ea00a22",
+    "chnlNames": "代理机构"
+  },
+  {
+    "chnlCodes": "8a817ecb39485e330139488c7ea00a22_3",
+    "parentId": "8a817ecb39485e330139488c7ea00a22",
+    "chnlNames": "评审专家"
+  },
+  {
+    "chnlCodes": "8a817ecb39485e330139488c7ea00a22_1",
+    "parentId": "8a817ecb39485e330139488c7ea00a22",
+    "chnlNames": "采购人"
+  },
+  {
+    "chnlCodes": "8a817ecb390f11e801390f54f92f0f7f",
+    "parentId": 0,
+    "chnlNames": "政策法规",
+    "open": false
+  },
+  {
+    "chnlCodes": "8a817ecb399e504901399e95a1322aa6",
+    "parentId": "8a817ecb390f11e801390f54f92f0f7f",
+    "chnlNames": "国家级"
+  },
+  {
+    "chnlCodes": "8a817ecb399e504901399e9603472aaa",
+    "parentId": "8a817ecb390f11e801390f54f92f0f7f",
+    "chnlNames": "省级"
+  },
+  {
+    "chnlCodes": "8a817ecb399e504901399e9734162aae",
+    "parentId": "8a817ecb390f11e801390f54f92f0f7f",
+    "chnlNames": "市县级"
+  },
+  {
+    "chnlCodes": "8a817ecb39add7c40139ae0b9zonyxgk",
+    "parentId": 0,
+    "chnlNames": "意向公开",
+    "open": false
+  },
+  {
+    "chnlCodes": "8a817ecb39add7c40139ae0b9b4syxgk",
+    "parentId": "8a817ecb39add7c40139ae0b9zonyxgk",
+    "chnlNames": "省级"
+  },
+  {
+    "chnlCodes": "8a817ecb39add7c40139ae0b9shiyxgk",
+    "parentId": "8a817ecb39add7c40139ae0b9zonyxgk",
+    "chnlNames": "市县级"
+  },
+  {
+    "chnlCodes": "8a817ecb395699fc01395778b9532421",
+    "parentId": 0,
+    "chnlNames": "公示",
+    "open": false
+  },
+  {
+    "chnlCodes": "8a817ecb395699fc013957a3168a24e2",
+    "parentId": "8a817ecb395699fc01395778b9532421",
+    "chnlNames": "单一来源"
+  },
+  {
+    "chnlCodes": "8a817ecb395699fc013957a41f6e24e6",
+    "parentId": "8a817ecb395699fc01395778b9532421",
+    "chnlNames": "进口产品"
+  },
+  {
+    "chnlCodes": "8a817ecb397ab20c01397b5fa9b229fd",
+    "parentId": "8a817ecb395699fc01395778b9532421",
+    "chnlNames": "投诉处理"
+  },
+  {
+    "chnlCodes": "4028868755c539f90155c53e674a0004",
+    "parentId": "8a817ecb395699fc01395778b9532421",
+    "chnlNames": "需求论证"
+  },
+  {
+    "chnlCodes": "4028868755c539f90155c53ef4d60008",
+    "parentId": "8a817ecb395699fc01395778b9532421",
+    "chnlNames": "质疑答复"
+  },
+  {
+    "chnlCodes": "4028868755c539f90155c5400f2b000c",
+    "parentId": "8a817ecb395699fc01395778b9532421",
+    "chnlNames": "履约验收"
+  },
+  {
+    "chnlCodes": "4028868755c539f90155c54083950010",
+    "parentId": "8a817ecb395699fc01395778b9532421",
+    "chnlNames": "评审专家"
+  },
+  {
+    "chnlCodes": "4028868755c539f90155c540fc7d0014",
+    "parentId": "8a817ecb395699fc01395778b9532421",
+    "chnlNames": "绩效评价"
+  },
+  {
+    "chnlCodes": "8a817eb738e5e70c0138e62ab6430c0a",
+    "parentId": 0,
+    "chnlNames": "省级采购",
+    "open": false
+  },
+  {
+    "chnlCodes": "8a817ecb39add7c40139ae0af1281006",
+    "parentId": "8a817eb738e5e70c0138e62ab6430c0a",
+    "chnlNames": "采购公告",
+    "open": false
+  },
+  {
+    "chnlCodes": "8a817ecb39b9902a0139b9a541e90b4f",
+    "parentId": "8a817ecb39add7c40139ae0af1281006",
+    "chnlNames": "竞争性谈判采购公告"
+  },
+  {
+    "chnlCodes": "8a817ecb39b9902a0139b9a22bc00b47",
+    "parentId": "8a817ecb39add7c40139ae0af1281006",
+    "chnlNames": "邀请招标采购公告"
+  },
+  {
+    "chnlCodes": "8a817ecb39b9902a0139b9a2dfaf0b4b",
+    "parentId": "8a817ecb39add7c40139ae0af1281006",
+    "chnlNames": "公开招标采购公告"
+  },
+  {
+    "chnlCodes": "402886875355b06e01539d135c5a3b0e",
+    "parentId": "8a817ecb39add7c40139ae0af1281006",
+    "chnlNames": "竞争性磋商采购公告"
+  },
+  {
+    "chnlCodes": "8a817ecb39b9902a0139b9a5d8ea0b53",
+    "parentId": "8a817ecb39add7c40139ae0af1281006",
+    "chnlNames": "询价采购公告"
+  },
+  {
+    "chnlCodes": "8a817ecb39b9902a0139b9a72aed0b57",
+    "parentId": "8a817ecb39add7c40139ae0af1281006",
+    "chnlNames": "单一来源采购公告"
+  },
+  {
+    "chnlCodes": "8a817ecb39add7c40139ae0b9b43100e",
+    "parentId": "8a817eb738e5e70c0138e62ab6430c0a",
+    "chnlNames": "中标公告"
+  },
+  {
+    "chnlCodes": "8a817ecb39add7c40139ae0b9b43166",
+    "parentId": "8a817eb738e5e70c0138e62ab6430c0a",
+    "chnlNames": "成交公告"
+  },
+  {
+    "chnlCodes": "8a817ecb39add7c40139ae0c09001012",
+    "parentId": "8a817eb738e5e70c0138e62ab6430c0a",
+    "chnlNames": "更正公告"
+  },
+  {
+    "chnlCodes": "99997ecb39b9902a0139b9a72aed0b57",
+    "parentId": "8a817eb738e5e70c0138e62ab6430c0a",
+    "chnlNames": "竞价采购公告"
+  },
+  {
+    "chnlCodes": "88887ecb39b9902a0139b9a72aed0b57",
+    "parentId": "8a817eb738e5e70c0138e62ab6430c0a",
+    "chnlNames": "竞价成交公告"
+  },
+  {
+    "chnlCodes": "8a817eb738e5e70c0138e65ad1a10e0a",
+    "parentId": 0,
+    "chnlNames": "市县级采购",
+    "open": false
+  },
+  {
+    "chnlCodes": "8a817ecb39d832560139d85416d70ad5",
+    "parentId": "8a817eb738e5e70c0138e65ad1a10e0a",
+    "chnlNames": "资格预审公告"
+  },
+  {
+    "chnlCodes": "8a817eb738e5e70c0138e6655ad50e67",
+    "parentId": "8a817eb738e5e70c0138e65ad1a10e0a",
+    "chnlNames": "采购公告",
+    "open": false
+  },
+  {
+    "chnlCodes": "8a817ecb39d832560139d85a2ea70b06",
+    "parentId": "8a817eb738e5e70c0138e6655ad50e67",
+    "chnlNames": "询价采购公告"
+  },
+  {
+    "chnlCodes": "8a817ecb39d832560139d85b10ca0b0a",
+    "parentId": "8a817eb738e5e70c0138e6655ad50e67",
+    "chnlNames": "单一来源采购公告"
+  },
+  {
+    "chnlCodes": "8a817ecb39d832560139d858abff0afe",
+    "parentId": "8a817eb738e5e70c0138e6655ad50e67",
+    "chnlNames": "公开招标采购公告"
+  },
+  {
+    "chnlCodes": "402886875355b06e01539dde85093fb9",
+    "parentId": "8a817eb738e5e70c0138e6655ad50e67",
+    "chnlNames": "竞争性磋商采购公告"
+  },
+  {
+    "chnlCodes": "8a817ecb39d832560139d85973c30b02",
+    "parentId": "8a817eb738e5e70c0138e6655ad50e67",
+    "chnlNames": "竞争性谈判采购公告"
+  },
+  {
+    "chnlCodes": "8a817ecb39d832560139d85806a70afa",
+    "parentId": "8a817eb738e5e70c0138e6655ad50e67",
+    "chnlNames": "邀请招标采购公告"
+  },
+  {
+    "chnlCodes": "8a817eb738e5e70c0138e66e141c0ea1",
+    "parentId": "8a817eb738e5e70c0138e65ad1a10e0a",
+    "chnlNames": "中标公告"
+  },
+  {
+    "chnlCodes": "8a817ecb39add7c40139ae0b9sj3166",
+    "parentId": "8a817eb738e5e70c0138e65ad1a10e0a",
+    "chnlNames": "成交公告"
+  },
+  {
+    "chnlCodes": "8a817ecb39add7c40139ae0b9sj3167",
+    "parentId": "8a817eb738e5e70c0138e65ad1a10e0a",
+    "chnlNames": "废标、流标公告"
+  },
+  {
+    "chnlCodes": "8a817eb738e5e70c0138e670a0260eb3",
+    "parentId": "8a817eb738e5e70c0138e65ad1a10e0a",
+    "chnlNames": "更正公告"
+  },
+  {
+    "chnlCodes": "77777ecb39b9902a0139b9a72aed0b57",
+    "parentId": "8a817eb738e5e70c0138e65ad1a10e0a",
+    "chnlNames": "竞价采购公告"
+  },
+  {
+    "chnlCodes": "66667ecb39b9902a0139b9a72aed0b57",
+    "parentId": "8a817eb738e5e70c0138e65ad1a10e0a",
+    "chnlNames": "竞价成交公告"
+  },
+  {
+    "chnlCodes": "8a817ecb39add7c40139ae0b9sqitg2",
+    "parentId": "8a817eb738e5e70c0138e65ad1a10e0a",
+    "chnlNames": "其它公告"
+  },
+  {
+    "chnlCodes": "8a817eb738e5e70c0138e60d9fd90afd",
+    "parentId": 0,
+    "chnlNames": "办事指南"
+  },
+  {
+    "chnlCodes": "8a817eb738e5e70c0138e60d97690afd",
+    "parentId": 0,
+    "chnlNames": "互动交流"
+  }
+]

@@ -19,6 +19,7 @@ def fromJsonToMysql(filename, table="emojis"):
     db = mc.connect(host="", user="", password="",
                     database="", charset="utf8mb4")
     cur = db.cursor()
+    cur.execute('truncate table %s' % table);
     index = 1
     for item in emojis:
         cur.execute(

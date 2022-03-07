@@ -8,29 +8,32 @@ import requests
 from _file import *
 from printState import *
 from _format import *
-def getAllArticlesPreInfo(query = "一带一路",filename = "./json/allArticlesPreInfo.json"):
+def getAllArticlesPreInfo(query = "Covid-19",filename = "./json/allArticlesPreInfo.json"):
     # url
-    url = 'https://cn.nytimes.com/search/data'
+    url = 'https://cn.nytimes.com/search/data/'
     # 参数
     params = {
         "query": query,
         "lang": "",
         "dt": "json",
         "from": 0,
-        "size": 100,
+        "size": 10,
+    }
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537'
     }
     # 代理
-    proxies = {'http': 'http://127.0.0.1:1080', 'https': 'http://127.0.0.1:1080'}
-    res = requests.get(url, params=params, proxies=proxies);
+    proxies={"http":"http://10.10.1.10:3128","https":"http://10.10.1.10:1080",}
+    res = requests.get(url, params=params, proxies=proxies,headers=headers);
     total = json.loads(res.text)["total"]
-    # print(total)
+    print(total)
     articlesArray = [];
-    total = 1246;
+    total = 111;
     _from = 0;
-    _size = 100;
+    _size = 10;
     printTip("开始抓取相关文章的URL")
     while (True):
-        res = requests.get(url, params=params, proxies=proxies);
+        res = requests.get(url, params=params, proxies=proxies,headers=headers);
         _from = _from + _size
         params["from"] = _from;
         data = res.text;
@@ -47,7 +50,7 @@ def getAllArticlesPreInfo(query = "一带一路",filename = "./json/allArticlesP
     writeToFile(filename,articleArray)
     return articleArray
 def main():
-    query = "一带一路"
+    query = "Covid-19"
     getAllArticlesPreInfo(query)
 if __name__ == "__main__":
     main()
