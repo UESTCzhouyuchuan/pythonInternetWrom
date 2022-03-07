@@ -20,7 +20,7 @@
 
 ## 更详细的过程在本人博客中
 
-[博客地址](https://blog.yulovexin.xyz/other/python-pa-chong-pa-qu-niu-yue-shi-bao.html)
+[博客地址](https://myhoney.club/views/backend/python%E7%88%AC%E8%99%AB%E7%88%AC%E5%8F%96%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5.html#%E5%89%8D%E8%A8%80)
 
 ## 相关 modules
 
